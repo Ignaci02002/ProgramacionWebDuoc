@@ -1,6 +1,9 @@
-.navbaradjust
-{
+.navbaradjust{
     margin-left:60px;
     margin-right:60px;
-    background-color: aquamarine;
-}
+    background-color: aquamarine;}
+
+
+.img-container {
+    text-align: center;
+    display: block;}
